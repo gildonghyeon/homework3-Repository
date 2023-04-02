@@ -1,4 +1,4 @@
-//----- 길동현 2022041025 -----//
+
 #include <stdio.h>
 #include <stdlib.h>
 void main()

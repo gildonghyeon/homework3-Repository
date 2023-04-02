@@ -1,8 +1,9 @@
-//----- 길동현 2022041025 -----//
+
 #include <stdio.h>
 #include <stdlib.h>
 void main()
 {
+printf("----길동현 2022041025----\n");
 int list[5];
 int *plist[5];
 list[0] = 10;

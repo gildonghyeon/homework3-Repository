@@ -1,8 +1,9 @@
-//----- 길동현 2022041025 -----//
+
 #include <stdio.h>
 void print_one(int *ptr, int rows);
 int main()
 {
+printf("----길동현 2022041025----\n");
 int one[] = {0, 1, 2, 3, 4};
 printf("one = %p\n", one); //one 주소 출력
 printf("&one = %p\n", &one); //one 주소 출력

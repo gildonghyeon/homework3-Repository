@@ -1,4 +1,4 @@
-//----- 길동현 2022041025 -----//
+
 #include <stdio.h>
 #define MAX_SIZE 100
 float sum1(float list[], int);
@@ -8,6 +8,7 @@ float input[MAX_SIZE], answer;
 int i;
 void main(void)
 {
+printf("----길동현 2022041025----\n");
 for(i=0; i < MAX_SIZE; i++)
 input[i] = i;
 /* for checking call by reference */

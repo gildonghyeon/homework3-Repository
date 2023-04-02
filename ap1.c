@@ -3,6 +3,7 @@
 #include <stdlib.h>
 void main()
 {
+printf("----길동현 2022041025----\n");
 int list[5];
 int *plist[5] = {NULL,};
 plist[0] = (int *)malloc(sizeof(int)); //plist[0]에 int의 크기를 저장

@@ -1,4 +1,4 @@
-//----- 길동현 2022041025 -----//
+
 #include <stdio.h>
 struct student1 {
 char lastName;
@@ -11,6 +11,7 @@ int studentId;
 char grade;
 } student2;
 int main() {
+printf("----길동현 2022041025----\n");
 struct student1 st1 = {'A', 100, 'A'};
 printf("st1.lastName = %c\n", st1.lastName); //st1.lastName값출력
 printf("st1.studentId = %d\n", st1.studentId); //st1.studentId출력
